@@ -33,7 +33,7 @@
 
 ## 📫 Connect with Me
 
-- 💻 GitHub: [github.com/Montot0](https://github.com/Mntt05)
+- 💻 GitHub: [github.com/Mntt05](https://github.com/Mntt05)
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration, feedback, or opportunities.
